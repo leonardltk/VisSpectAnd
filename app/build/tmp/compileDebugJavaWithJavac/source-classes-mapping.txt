@@ -1,0 +1,19 @@
+net/galmiza/android/spectrogram/BuildConfig.java
+ net.galmiza.android.spectrogram.BuildConfig
+net/galmiza/android/spectrogram/FrequencyView.java
+ net.galmiza.android.spectrogram.FrequencyView
+net/galmiza/android/spectrogram/TimeView.java
+ net.galmiza.android.spectrogram.TimeView
+ net.galmiza.android.spectrogram.TimeView$1
+ net.galmiza.android.spectrogram.TimeView$GestureListener
+net/galmiza/android/spectrogram/ContinuousRecord.java
+ net.galmiza.android.spectrogram.ContinuousRecord
+ net.galmiza.android.spectrogram.ContinuousRecord$OnBufferReadyListener
+net/galmiza/android/spectrogram/SpectrogramActivity.java
+ net.galmiza.android.spectrogram.SpectrogramActivity
+net/galmiza/android/spectrogram/PreferencesActivity.java
+ net.galmiza.android.spectrogram.PreferencesActivity
+net/galmiza/android/spectrogram/Misc.java
+ net.galmiza.android.spectrogram.Misc
+net/galmiza/android/engine/sound/SoundEngine.java
+ net.galmiza.android.engine.sound.SoundEngine
